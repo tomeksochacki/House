@@ -1,8 +1,8 @@
 package home;
-
 public class Room {
 
     public static final double quantity = 3;
+
 
     protected int amountWindow;
     protected int amountDoor;
